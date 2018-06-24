@@ -1,4 +1,4 @@
-exports.TOKEN = 'BOT_TOKEN';
+exports.TOKEN = 'BOT_TOKEN1';
 
 exports.PREFIX = 'm!';
 
